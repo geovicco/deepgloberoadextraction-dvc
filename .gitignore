@@ -4,3 +4,4 @@ models
 __pycache__
 *egg-info
 secrets.yaml
+.DS_Store
