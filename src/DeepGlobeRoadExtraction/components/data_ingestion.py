@@ -1,4 +1,4 @@
-from DeepGlobeRoadExtraction.configuration import ConfigurationManager, DataIngestionConfig
+from DeepGlobeRoadExtraction.configuration import DataIngestionConfig
 import os
 import subprocess
 import json
