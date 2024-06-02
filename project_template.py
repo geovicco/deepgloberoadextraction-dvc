@@ -20,7 +20,7 @@ list_of_files = [
     "config.yaml",
     "dvc.yaml",
     "params.yaml",
-    "secrets.yaml"
+    "secrets.yaml",
     "requirements.txt",
     "setup.py",
     "notebooks/experiments.ipynb",
